@@ -7,9 +7,9 @@
     <img src="assets/domolo.png" width="500">
   </p>
 
-A monitoring and logging solution for Docker hosts and containers with [Prometheus](https://prometheus.io/),
+Решение для мониторинга и регистрации хостов и контейнеров Docker с [Prometheus](https://prometheus.io/),
 [Grafana](http://grafana.org/), [Loki](https://github.com/grafana/loki/), [cAdvisor](https://github.com/google/cadvisor),
-[NodeExporter](https://github.com/prometheus/node_exporter) and alerting with
+[NodeExporter](https://github.com/prometheus/node_exporter) и оповещение с помощью
 [AlertManager](https://github.com/prometheus/alertmanager).
 
 Inspired by [dockprom](https://github.com/stefanprodan/dockprom)
